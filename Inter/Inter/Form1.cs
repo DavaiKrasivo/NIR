@@ -74,18 +74,21 @@ namespace Inter
                 label1.Text += temp.ToString();
                 label1.Text += " ";
             }
+            label1.Text += " иди в ближайщий";
             result = myGraf.Alg2(1, new List<int>());
             foreach (var temp in result)
             {
                 label2.Text += temp.ToString();
                 label2.Text += " ";
             }
+            label2.Text += " 2ой приблеженный";
             myGraf.Branch();
             foreach (var temp in myGraf.Prim)
             {
                 label3.Text += temp.ToString();
                 label3.Text += " ";
             }
+            label3.Text += " ветвей и границ";
         }
     }
 }
