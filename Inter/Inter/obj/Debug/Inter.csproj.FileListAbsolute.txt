@@ -1,0 +1,11 @@
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\bin\Debug\Inter.exe.config
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\bin\Debug\Inter.exe
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\bin\Debug\Inter.pdb
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\obj\Debug\Inter.csprojResolveAssemblyReference.cache
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\obj\Debug\Inter.Form1.resources
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\obj\Debug\Inter.Properties.Resources.resources
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\obj\Debug\Inter.csproj.GenerateResource.Cache
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\obj\Debug\Inter.exe
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\obj\Debug\Inter.pdb
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\bin\Debug\GrafOfMatrix.dll
+C:\Users\MyNote\Desktop\Учеба\НИР\Inter\Inter\bin\Debug\GrafOfMatrix.pdb
